@@ -2,7 +2,6 @@
   "name": "sensejus/magento2-translation-merger",
   "description": "Merge translations from magento i18n:collect command result with current theme translations",
   "type": "magento2-module",
-  "version": "0.0.1",
   "minimum-stability": "dev-master",
   "author": "Kipras Balciunas",
   "license": [
