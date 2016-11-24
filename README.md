@@ -14,13 +14,15 @@ This module fix magento issue then running bin/magento i18n:pack , for some reas
 Add this to your composer.json
 ```json
   "require-dev": {
-        "sensejus/magento2-translation-merger":"dev-master"
+        "sensejus/magento2-translation-merger":"1.0.0"
     }
 ```   
-
 Run
 
-  composer update
+composer update
+
+or just run
+composer require sensejus/magento2-translation-merger
 
 # Usage
 
