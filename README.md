@@ -19,10 +19,11 @@ Add this to your composer.json
 ```   
 Run
 
-composer update
+    composer update
 
 or just run
-composer require sensejus/magento2-translation-merger
+
+    composer require sensejus/magento2-translation-merger
 
 # Usage
 
