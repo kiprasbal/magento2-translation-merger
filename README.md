@@ -24,7 +24,7 @@ Run
 
 # Usage
 
-### translation-merger:merge [input-directory] [output-directory] [locale]
+### bin/magento translation-merger:merge [input-directory] [output-directory] [locale]
 
 #### Arguments:
 
