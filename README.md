@@ -24,12 +24,12 @@ Run
 
 # Usage
 
-translation-merger:merge [input-directory] [output-directory] [locale]
+### translation-merger:merge [input-directory] [output-directory] [locale]
 
-Arguments:
+#### Arguments:
 
- input-directory       Input directory of collected Magento CSV file. (Default: app/i18n/) (default: "app/i18n/")
+ <b>input-directory</b>       <i>- Input directory of collected Magento CSV file. (Default: app/i18n/) </i>
  
- output-directory      Output directory of collected Magento CSV file. (Default: app/design/frontend/base/i18n/) (default: "app/design/frontend/base/i18n/")
+ <b>output-directory</b>      <i>- Output directory of collected Magento CSV file. (Default: app/design/frontend/base/i18n/) </i>
  
- locale                Locale (Default: en_US) (default: "en_US")
+ <b>locale</b>                <i>- Locale (Default: en_US)</i>
