@@ -23,9 +23,13 @@ Run
   composer update
 
 # Usage
- translation-merger:merge [input-directory] [output-directory] [locale]
+
+translation-merger:merge [input-directory] [output-directory] [locale]
 
 Arguments:
+
  input-directory       Input directory of collected Magento CSV file. (Default: app/i18n/) (default: "app/i18n/")
+ 
  output-directory      Output directory of collected Magento CSV file. (Default: app/design/frontend/base/i18n/) (default: "app/design/frontend/base/i18n/")
+ 
  locale                Locale (Default: en_US) (default: "en_US")
