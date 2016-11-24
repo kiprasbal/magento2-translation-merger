@@ -4,6 +4,7 @@
   "type": "magento2-module",
   "minimum-stability": "dev",
   "author": "Kipras Balciunas",
+  "version": "1.0.0",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
